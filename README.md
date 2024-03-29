@@ -1,5 +1,5 @@
-## Ujian Tengah Semester
-# Mata Kuliah Pemrograman API
+# Ujian Tengah Semester
+## Mata Kuliah Pemrograman API
 
 Dosen Pengampu:
 Andi Iwan Nur Hidayat, S. Kom., M.T.
